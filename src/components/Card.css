@@ -1,0 +1,17 @@
+.card{
+    display: grid;
+    grid-template-columns: repeat(3,400px);
+    margin-left: 60px;
+
+}
+.card1{
+    background-color: yellow;
+    margin-left:20px;
+    margin-bottom:20px;
+    padding-left: 30px;
+}
+.card2{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
